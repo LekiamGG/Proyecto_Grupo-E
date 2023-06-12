@@ -160,24 +160,6 @@ namespace ProyectoCamioncitos.Properties {
             }
         }
         
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap vehiculo {
-            get {
-                object obj = ResourceManager.GetObject("vehiculo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Volante {
-            get {
-                object obj = ResourceManager.GetObject("Volante", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+
     }
 }
